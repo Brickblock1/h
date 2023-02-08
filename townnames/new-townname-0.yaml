@@ -1,7 +1,22 @@
-available: false
+available: true
 id: 0
 mainset:
 - names: []
 name: 'New Townname #0'
 source: null
-subsets: []
+subsets:
+- name: newset-0
+  parts:
+  - names: []
+- name: newset-1
+  parts:
+  - names: []
+- name: newset-2
+  parts:
+  - names: []
+- name: newset-3
+  parts:
+  - names: []
+- name: newset-4
+  parts:
+  - names: []
